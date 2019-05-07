@@ -2,7 +2,7 @@
 
 A vanila js todo app that uses javascript modules with webpack.
 
-Source code [click here]()  
+To see the source code look at the **src** folder  
 To execute the project [click here](https://fcarlosdev.github.io/todo-app/dist/)
 
 To use the source code run the follow commands
